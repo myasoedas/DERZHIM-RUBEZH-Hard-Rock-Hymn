@@ -1,0 +1,67 @@
+Описание стиля музыки: 
+Трек 1: https://cdn1.suno.ai/ce86b80d-7141-489f-b59f-9433d28760f7.mp3
+Трек 2: https://cdn1.suno.ai/d4fb028d-454c-4170-b0af-b65ebcb5d553.mp3
+
+Hard rock-гимн; 148 BPM; 4/4; Drop C; риффы как танковый гул, барабаны марш+очередь; куплет рывками, припев хор-крик; грудной хриплый вокал; финал — гимн-сканд, стоп-удар.
+
+{
+  "song": {
+    "title": "ДЕРЖИМ РУБЕЖ (окопный гимн)",
+    "description": "Окопный hard rock-гимн: суровый, маршевый, с хриплым грудным вокалом и хором-скандом. Музыка держит строй и взрывается финальным стоп-ударом.",
+    "directives": [
+      "[Genre=Hard Rock Hymn]",
+      "[BPM=148]",
+      "[Time=4/4]",
+      "[Tempo=strict]",
+      "[Key=D minor]",
+      "[Tuning=Drop C tone]",
+      "[Guitars=heavy palm-mute riffs; low and wide; character=tank engine roar]",
+      "[Drums=march groove + machine-gun bursts; Bridge=halftime]",
+      "[Bass=thick, monolithic, anchors the riff]",
+      "[Vocals=male; raspy chest; intelligible; not growl; not scream]",
+      "[Chorus=unison gang chant, stadium/army shout]",
+      "[Arrangement=intro-verse-chorus-verse-chorus-bridge-final]",
+      "[Final=gang chant unison; stop-hit at end]",
+      "[Mix=raw, punchy; kick=deep; snare=dry; guitars=wide; vocal=center; reverb=moderate]",
+      "[Atmosphere=battlefield anthem; muddy trench grit; no gloss]"
+    ],
+    "lyrics": {
+      "VERSE_1": [
+        "Сырая земля в руках.",
+        "Звон гильз о шлем — холод в венах.",
+        "Кровь в висках. Дышим ровно.",
+        "Стоим стеной. Нас не сломить огнём."
+      ],
+      "CHORUS": [
+        "Держим рубеж!",
+        "Враг не пройдёт!",
+        "Нас не снесешь!",
+        "Мы — бетон!"
+      ],
+      "VERSE_2": [
+        "Враг в дыму — прицел! Огонь!",
+        "Мы как стена — никто не пройдёт.",
+        "В глазах — огонь. В ушах — звон.",
+        "Броня горит — но мы бетон!"
+      ],
+      "CHORUS_2": [
+        "Держим рубеж!",
+        "Клянёмся дыханьем. Кровью.",
+        "Стоим до конца!",
+        "За дом. За детей. За правду."
+      ],
+      "BRIDGE_OATH": [
+        "Последний патрон — живой мой крик.",
+        "Пока дышим — рубеж стоит.",
+        "В глазах — огонь. Грудь — броня.",
+        "Нас не сломать. Мы — семья."
+      ],
+      "FINAL": [
+        "Держим рубеж!",
+        "Враг не пройдет!",
+        "Стоим до конца!",
+        "Мы лучшие в аду!"
+      ]
+    }
+  }
+}
